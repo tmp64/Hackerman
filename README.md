@@ -4,6 +4,12 @@ Hackerman
 A mod for Prey (2017) that completely removes the hacking minigame.  
 Hack objects with the power of your mind!
 
+[Video demo](https://youtu.be/1Rxqv9LehY8)
+
+Bugs
+----------
+Let me know if you find any. I made it in 30 minutes and only tested with keypads, workstations and turrets.
+
 Installation
 ---------------
 
