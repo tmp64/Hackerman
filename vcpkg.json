@@ -1,15 +1,16 @@
 {
-  "name": "example-mod",
-  "version-string": "0.1.0",
-  "description": "An interesting description",
-  "builtin-baseline": "faed44dfa013088fe1910908a8a65887622f412f",
+  "name": "hackerman",
+  "version-string": "1.0.0",
+  "description": "Instant hacking mod for Prey (2017)",
+  "builtin-baseline": "f7423ee180c4b7f40d43402c2feb3859161ef625",
   "$deps_": "Please, keep sorted alphabetically",
   "$boost": "Don't include the whole Boost!",
   "dependencies": [
+    "boost-algorithm",
+    "boost-bimap",
     "boost-core",
     "boost-format",
     "boost-variant",
-    "boost-bimap",
     "detours",
     "fmt"
   ]
